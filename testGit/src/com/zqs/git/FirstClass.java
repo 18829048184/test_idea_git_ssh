@@ -16,9 +16,11 @@ public class FirstClass {
         System.out.println("Hello Git!");
         System.out.println("Hello Git!");
         System.out.println("Hello Git!");
+//        、、hellp;
     }
     public void test() {
         int i = 0;
         int j = 0;
+        System.out.println("xxxxxxxxxxxxxxxxxxx");
     }
 }
