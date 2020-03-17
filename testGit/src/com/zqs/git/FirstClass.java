@@ -17,6 +17,8 @@ public class FirstClass {
         System.out.println("Hello Git!");
         System.out.println("Hello Git!");
         System.out.println("Hello Git!");
-        System.out.println("Hello Git!");
+    }
+    public void test() {
+        int i = 0;
     }
 }
